@@ -1,0 +1,25 @@
+/*........................Tags selectors..................*/
+h1{
+    color:green;
+}
+
+/*
+img{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+}
+*/
+/*........................Class selectors..................*/
+.biryani{
+    background-color: green;
+    width: 200px;
+    height: 200px;
+}
+
+.flag{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+}
+
