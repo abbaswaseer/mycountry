@@ -23,3 +23,12 @@ img{
     height: 200px;
 }
 
+.identity{
+    background-color: black;
+}
+
+/*........................ID selectors..................*/
+
+#country:hover{
+    color: purple;
+}
